@@ -1,7 +1,8 @@
 <!-- BEGIN_TF_DOCS -->
 
 ## Introduction
-Terragrunt module to provision an Elasticsearch cluster and a Security Group.
+Terragrunt module to provision an Elasticsearch cluster with a Security Group attached on the fly.
+
 
 ## Requirements
 
